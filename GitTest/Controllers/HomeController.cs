@@ -22,7 +22,7 @@ namespace GitTest.Controllers
 
         public ActionResult Contact()
         {
-            ViewBag.Message = "Your contact page.";
+            ViewBag.Message = "Your PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS PENIS VAGINA! page.";
 
             return View();
         }
